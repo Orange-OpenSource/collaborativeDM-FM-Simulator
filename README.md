@@ -1,10 +1,5 @@
 # IoT Failure Management Similator (FM-Simulator)
-The FM Simulator allows the simulation of failures injection and recovery on Internet of Things devices. It is an extention of the simulator [iFogSim2](), and its failure injection and recovery method is inspired from [ClouSimPlus](). 
-  
-iFogSim2 currently encompasses several new usecases such as:
- * Audio Translation Scenario
- * Healthcare Scenario
- * Crowd-sensing Scenario
+The FM Simulator allows the simulation of failures injection and recovery on Internet of Things devices. It is an extention of the simulator [iFogSim2](https://github.com/Cloudslab/iFogSim1), and its failure injection and recovery method is inspired from [ClouSimPlus](https://cloudsimplus.org/). 
 
 # How to run FM-Simulator ?
 * Eclipse IDE:
