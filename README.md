@@ -29,8 +29,7 @@ The FM Simulator allows the simulation of failures injection and recovery on Int
   * Verify the external libraries in the "JARs" Folder are added to the project
   * Run the example files (e.g. SmartHomeApplication.java) to get started
 
-# Simualtion traces for the ISWC conference
-Find the simulation traces of results presented in the paper submitted to the ISWC'23 conference: [HERE](ISWC Material)
+# Simualtion traces for the ISWC conference [HERE](ISWC Material)
 # References
  * Redowan Mahmud, Samodha Pallewatta, Mohammad Goudarzi, and Rajkumar Buyya, <A href="https://arxiv.org/abs/2109.05636">iFogSim2: An Extended iFogSim Simulator for Mobility, Clustering, and Microservice Management in Edge and Fog Computing Environments</A>, Journal of Systems and Software (JSS), Volume 190, Pages: 1-17, ISSN:0164-1212, Elsevier Press, Amsterdam, The Netherlands, August 2022.
  * Harshit Gupta, Amir Vahid Dastjerdi , Soumya K. Ghosh, and Rajkumar Buyya, <A href="http://www.buyya.com/papers/iFogSim.pdf">iFogSim: A Toolkit for Modeling and Simulation of Resource Management Techniques in Internet of Things, Edge and Fog Computing Environments</A>, Software: Practice and Experience (SPE), Volume 47, Issue 9, Pages: 1275-1296, ISSN: 0038-0644, Wiley Press, New York, USA, September 2017.
